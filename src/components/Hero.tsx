@@ -26,7 +26,7 @@ const Hero = () => {
             <div className="w-80 h-80 lg:w-96 lg:h-96 relative">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-200 via-slate-300 to-blue-300 rounded-full blur-2xl opacity-30"></div>
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1653732212701-b729f0b08330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBzb2Z0d2FyZSUyMGRldmVsb3BlciUyMHBvcnRyYWl0JTIwaGVhZHNob3R8ZW58MXx8fHwxNzU3OTUzNTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://github.com/JowieM/Jowie_Portfolio/blob/main/Jowie%20Mankga%20Image.jpg"
                 alt="Jowie Mankga - Software Developer"
                 className="relative w-full h-full object-cover rounded-full border-4 border-white shadow-2xl"
               />
